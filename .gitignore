@@ -5,10 +5,6 @@ venv/
 .env
 .venv
 
-# Frontend generated files
-frontend/build/
-frontend/node_modules/
-
 # System
 .DS_Store
 Thumbs.db
