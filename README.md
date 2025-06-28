@@ -7,10 +7,10 @@ A simple full-stack movie recommendation system that suggests similar movies usi
 ## 📸 Screenshots
 
 ### 🔍 Search + Selected Movie
-![Search Screenshot](Screenshot-2025-06-27-190030.png)
+![Search Screenshot](Search.png)
 
 ### 🎥 Recommended Movies
-![Recommendation Screenshot](Screenshot-2025-06-27-190050.png)
+![Recommendation Screenshot](Recommend.png)
 
 ---
 
