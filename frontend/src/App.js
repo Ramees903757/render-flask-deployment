@@ -183,7 +183,6 @@ function App() {
           <Grid container spacing={3}>
             {recommendations.map((movie, index) => {
               console.log(`Recommended Movie ${index + 1}:`, movie);
-              console.log("Poster URL:", movie.poster);
               return (
                 <Grid item xs={6} sm={4} md={3} key={movie.id || index}>
                   <Card>

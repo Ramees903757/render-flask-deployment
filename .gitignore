@@ -5,6 +5,21 @@ venv/
 .env
 .venv
 
+# Flask / Backend specific
+backend/__pycache__/
+backend/*.pyc
+backend/.env
+backend/instance/
+backend/model/*.pkl
+
+# Node / React frontend
+frontend/node_modules/
+frontend/.env
+frontend/build/
+
+# Logs
+*.log
+
 # System
 .DS_Store
 Thumbs.db
